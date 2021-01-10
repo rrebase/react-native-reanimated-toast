@@ -36,7 +36,7 @@
     "copy-dts": "copyfiles -u 1 \"src/**/*.d.ts\" lib/typescript",
     "example": "yarn --cwd example",
     "setup": "yarn install && yarn example",
-    "release": "release-it --npm.skipChecks"
+    "release": "release-it"
   },
   "dependencies": {
     "react-native-svg": "^12.1.0"
