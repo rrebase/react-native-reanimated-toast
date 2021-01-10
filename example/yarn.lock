@@ -4686,11 +4686,6 @@ react-native-gesture-handler@~1.7.0:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-"react-native-reanimated-toast@file:..":
-  version "1.0.0"
-  dependencies:
-    react-native-svg "^12.1.0"
-
 react-native-reanimated@2.0.0-alpha.7:
   version "2.0.0-alpha.7"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-2.0.0-alpha.7.tgz#20b9852df6aeab9fc0efb938527bf47ae954370a"
